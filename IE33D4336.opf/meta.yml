@@ -1,0 +1,38 @@
+id: IE33D4336
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T02:23:12.317411'
+last_modified: '2022-06-19T02:23:12.317423'
+parser: null
+source_metadata:
+  title: History of Zhwa lu Monastery and the Autobiography of Zhwa lu Blo gsal bstan
+    skyong (1804–1864)
+  author: zhwa lu blo gsal bstan skyong /
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-10); slightly incomplete, revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:kun dga' rdo rje/ (Kathmandu) (kun)
+  - Editorial process:kun dga' rdo rje/ (kun), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:kun dga' rdo rje/ (kun)
+  text_witnesses: https://sakyaresearch.org/sources/115
+  bases:
+    94be:
+      title: History of Zhwa lu Monastery and the Autobiography of Zhwa lu Blo gsal
+        bstan skyong (1804–1864)
+      order: 1
+      base_file: 94be.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
